@@ -36,14 +36,13 @@ body {
 button {
     width: 300px;
     padding: 15px 0;
-    margin: 18px 0 ;
+    margin: 10px 0 ;
     font-size: 25px;
     font-weight: bold;
 }
 
 h1 {
     margin: 20px 0;
-    margin-bottom: 40px;
     color: antiquewhite;
 }
 
