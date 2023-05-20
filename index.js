@@ -10,7 +10,7 @@ let count = 0;
 
  function save() {
 
-    let countstr = " + " + count
+    let countstr =  count + " - "
     savEl.textContent += countstr
     incri.textContent = 0;
     count = 0;
